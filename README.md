@@ -9,8 +9,9 @@
 
 ## 📅 Hobbies
 - Hacking
+- Malware & Payload Coding
 - IA
-- Mallware & Payload Coding
+- Video Creation
 
 ## 💻 Current projects
 - School 42 Paris
@@ -20,3 +21,4 @@
 - JavaScript
 - Hacking Tools
 - ASM (Intel x68)
+- Video Editing
