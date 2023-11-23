@@ -18,7 +18,8 @@
 - Grinding on TryHackMe
 
 ## 📚 Learning
-- JavaScript
+- HTML / CSS / JS
+- Web Security
 - Hacking Tools
 - ASM (Intel x68)
 - Video Editing
