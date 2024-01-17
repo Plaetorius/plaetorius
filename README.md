@@ -21,5 +21,5 @@
 - HTML / CSS / JS
 - Web Security
 - Hacking Tools
-- ASM (Intel x68)
+- ASM (Intel x86)
 - Video Editing
