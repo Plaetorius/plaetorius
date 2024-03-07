@@ -9,12 +9,12 @@
 
 ## 📅 Hobbies
 - Hacking
-- Malware & Payload Coding
+- YouTube
+- Malware Coding
 - IA
-- Video Creation
 
 ## 💻 Current projects
-- School 42 Paris
+- 42 School Paris
 - Grinding on TryHackMe
 
 ## 📚 Learning
@@ -22,4 +22,3 @@
 - Web Security
 - Hacking Tools
 - ASM (Intel x86)
-- Video Editing
