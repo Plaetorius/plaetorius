@@ -22,3 +22,5 @@
 - Web Security
 - Hacking Tools
 - ASM (Intel x86)
+
+<script src="https://tryhackme.com/badge/725465"></script>
