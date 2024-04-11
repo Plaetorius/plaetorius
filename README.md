@@ -24,4 +24,3 @@
 - ASM (Intel x86)
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/Plaetorius.png" alt="TryHackMe">
-Acutally, I am 0x8, and finishing the "Complete Beginner" course.
