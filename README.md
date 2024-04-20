@@ -3,14 +3,11 @@
 
 ## 💬 Ask me about
 - C/C++
-- Wordpress
-- Digital Marketing
 - Hacking Basics
 
 ## 📅 Hobbies
 - Hacking
 - YouTube
-- Malware Coding
 - IA
 
 ## 💻 Current projects
@@ -18,9 +15,8 @@
 - Grinding on TryHackMe
 
 ## 📚 Learning
-- HTML / CSS / JS
 - Web Security
 - Hacking Tools
-- ASM (Intel x86)
+- ASM (Intel x86, AT&T)
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/Plaetorius.png" alt="TryHackMe">
